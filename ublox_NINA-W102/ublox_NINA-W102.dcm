@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NINA-W102
+D The NINA-W10 series are stand-alone multiradio MCU modules that integrate a powerful microcontroller (MCU)
+K ESP-32
+F https://www.u-blox.com/sites/default/files/NINA-W10_DataSheet_%28UBX-17065507%29.pdf
+$ENDCMP
+#
+#End Doc Library
